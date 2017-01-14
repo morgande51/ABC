@@ -21,4 +21,10 @@
          </plugin>
       </plugins>
    </build>
+  <dependencies>
+  	<dependency>
+  		<groupId>org.aamc.abc</groupId>
+  		<artifactId>abc-domain</artifactId>
+  	</dependency>
+  </dependencies>
 </project>
